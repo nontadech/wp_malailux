@@ -18,7 +18,5 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
-.idea/*
-.idea/
-.idea/workspace.xml
+/.idea/
 phploy.ini
