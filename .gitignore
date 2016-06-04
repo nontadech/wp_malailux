@@ -1,5 +1,8 @@
 .DS_Store
 
+/.idea/
+/.gitignore
+
 *.log
 wp-config.php
 wp-content/advanced-cache.php
@@ -18,5 +21,7 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
-/.idea/
+
 phploy.ini
+wp-content/plugins/contact-form-7/admin/images/
+wp-content/plugins/contact-form-7/images/service-icons/
