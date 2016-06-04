@@ -20,4 +20,5 @@ wp-content/plugins/hello.php
 
 .idea/*
 .idea/
+.idea/workspace.xml
 phploy.ini
