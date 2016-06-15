@@ -295,6 +295,7 @@ jQuery(document).ready(function($){
 		$('.side-dashboard-wrap').toggleClass('dashboard-push-onscreen');
 	});
 	$(".mobile-menu-icon").click(function(){
+		alert(1);
 		//mobile menu
 		$('body').toggleClass('body-dashboard-push-left');
 		$('.mobile-menu-icon-toggle').toggleClass('feather-icon-menu').toggleClass('feather-icon-cross');
